@@ -42,7 +42,7 @@ def process_logs(conn,path,callback):
             # 更新偏移量
             offset += int(offset)+len(line)
 
-            # 每处理 1000 各日志行，更新一次文件
+            # 每处理 1000 个日志行，更新一次文件
             if not (lno+1) % 1000:
                 update_progress()
         update_progress()
