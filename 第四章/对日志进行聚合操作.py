@@ -2,6 +2,8 @@ import redis
 import os
 """
 用于处理新日志
+path 表示日志文件路径
+callback 用于处理每行操作的回调函数
 """
 
 def process_logs(conn,path,callback):
