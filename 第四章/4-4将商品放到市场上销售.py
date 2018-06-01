@@ -29,3 +29,8 @@ def list_item(conn,itemid,sellerid,price):
         except redis.exceptions.WatchError:
             pass
     return False
+
+if __name__=="__main__":
+    conn=redis.Redis("127.0.0.1","6379")
+    # id为17 的用户 将 itemM 以100价格放到 market:  销售
+    list_item(conn,"itemM",17,100)

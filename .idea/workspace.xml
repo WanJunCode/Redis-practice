@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bf93f0c-960c-449e-a187-3e4f52088ad9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/第四章/4-4-3购买商品.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第四章/初始化数据.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第四章/4-4-3购买商品.py" beforeDir="false" afterPath="$PROJECT_DIR$/第四章/4-4-3购买商品.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第四章/4-4将商品放到市场上销售.py" beforeDir="false" afterPath="$PROJECT_DIR$/第四章/4-4将商品放到市场上销售.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第四章/初始化数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/第四章/初始化数据.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,7 +16,9 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Redis_practice$4_2_4.coverage" NAME="4-2-4检验硬盘写入 Coverage Results" MODIFIED="1527830113037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第四章" />
-    <SUITE FILE_PATH="coverage/Redis_practice$.coverage" NAME="初始化数据 Coverage Results" MODIFIED="1527842463847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第四章" />
+    <SUITE FILE_PATH="coverage/Redis_practice$.coverage" NAME="初始化数据 Coverage Results" MODIFIED="1527843395939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第四章" />
+    <SUITE FILE_PATH="coverage/Redis_practice$4_4.coverage" NAME="4-4将商品放到市场上销售 Coverage Results" MODIFIED="1527843790103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第四章" />
+    <SUITE FILE_PATH="coverage/Redis_practice$4_4_3.coverage" NAME="4-4-3购买商品 Coverage Results" MODIFIED="1527844159134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第四章" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -46,8 +49,8 @@
       <file leaf-file-name="4-4将商品放到市场上销售.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/第四章/4-4将商品放到市场上销售.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+            <state relative-caret-position="165">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
@@ -55,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="初始化数据.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="初始化数据.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/第四章/初始化数据.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="325">
+              <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -73,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4-4-3购买商品.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="4-4-3购买商品.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/第四章/4-4-3购买商品.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+            <state relative-caret-position="425">
+              <caret line="35" column="50" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="50" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
@@ -111,9 +114,9 @@
       <list>
         <option value="$PROJECT_DIR$/第四章/对日志进行聚合操作.py" />
         <option value="$PROJECT_DIR$/第四章/4-2-4检验硬盘写入.py" />
+        <option value="$PROJECT_DIR$/第四章/初始化数据.py" />
         <option value="$PROJECT_DIR$/第四章/4-4将商品放到市场上销售.py" />
         <option value="$PROJECT_DIR$/第四章/4-4-3购买商品.py" />
-        <option value="$PROJECT_DIR$/第四章/初始化数据.py" />
       </list>
     </option>
   </component>
@@ -175,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.初始化数据">
+  <component name="RunManager" selected="Python.4-4-3购买商品">
     <configuration name="初始化数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Redis-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,12 +217,54 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="4-4-3购买商品" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Redis-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第四章" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第四章/4-4-3购买商品.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="4-4将商品放到市场上销售" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Redis-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第四章" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第四章/4-4将商品放到市场上销售.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.4-2-4检验硬盘写入" />
       <item itemvalue="Python.初始化数据" />
+      <item itemvalue="Python.4-4将商品放到市场上销售" />
+      <item itemvalue="Python.4-4-3购买商品" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4-4-3购买商品" />
+        <item itemvalue="Python.4-4将商品放到市场上销售" />
         <item itemvalue="Python.初始化数据" />
         <item itemvalue="Python.4-2-4检验硬盘写入" />
       </list>
@@ -264,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527831323724</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test">
+      <created>1527842664126</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1527842664126</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -274,7 +326,7 @@
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="2" weight="0.3293348" />
+      <window_info anchor="bottom" id="Version Control" order="2" visible="true" weight="0.3293348" />
       <window_info anchor="bottom" id="Python Console" order="3" />
       <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.32889125" />
       <window_info anchor="bottom" id="Terminal" order="4" />
@@ -379,26 +431,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第四章/4-4-3购买商品.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第四章/4-4将商品放到市场上销售.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Python/Lib/site-packages/redis/client.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -408,8 +440,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/第四章/初始化数据.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="325">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第四章/4-4将商品放到市场上销售.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第四章/4-4-3购买商品.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="35" column="50" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
